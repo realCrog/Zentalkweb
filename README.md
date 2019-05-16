@@ -9,7 +9,7 @@
 ````
 Zentalk is a E2EE, encrypted chat application.
 
-Tor isn´t supported ❎ 
+Tor isn´t supported yet ❎ 
 
 Thor hammer on work 11.05.2019
 
@@ -20,7 +20,7 @@ Thor hammer on work 11.05.2019
 ##### *[Zentalk Mobile](https://github.com/ZentaChain/Zentalk-Mobile)
 ##### *[Zentalk Web](www.zentalk.chat)
 
-##### For more informatsion and what is Zentalk : 
+##### For more informations and what is Zentalk : 
 ##### * [Zentachain.io](www.Zentachain.io) 
 
 ##### *[This project is under active development, there may be breaking changes.]
